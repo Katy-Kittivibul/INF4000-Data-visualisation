@@ -19,11 +19,11 @@ This repository provides processes for visualising and analysing music popularit
 > install.packages(c("webr", "ggplot2", "ggparcoord", "xgboost", "caret", "pROC", "Metrics", "viridis"))
 
 ## Results 🎉
-Pie-donut chart: Shows popularity distribution.
-Treemap: Highlights artist frequency.
-Scatter plot: Reveals relationships between features like valence and energy.
-Coordinate parallel: Displays acoustic features pattern across song popularity. 
-Bar chart: Identifies key features impacting song popularity from XGBoost model.
+- Pie-donut chart: Shows popularity distribution.
+- Treemap: Highlights artist frequency.
+- Scatter plot: Reveals relationships between features like valence and energy.
+- Coordinate parallel: Displays acoustic features pattern across song popularity. 
+- Bar chart: Identifies key features impacting song popularity from XGBoost model.
 
 ## Acknowledgements 🌟
 This project was completed as part of the INF4000 Data visualisation module at the Information School, University of Sheffield.
