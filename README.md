@@ -9,7 +9,7 @@ This repository provides processes for visualising and analysing music popularit
 - Pie-donut charts 🎈
 - Treemaps 🌲
 - Scatter plots 🔸
-- Coordinate parallel :abacus: 
+- Coordinate parallel :chart_with_upwards_trend:
 3. Feature Importance: Using XGBoost for evaluating song attributes related to popularity.
 
 ## Installation 📝
